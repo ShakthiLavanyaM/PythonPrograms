@@ -11,3 +11,10 @@ The design should have 'WELCOME' written in the center.
 The design pattern should only use |, . and - characters.
 
 https://www.hackerrank.com/challenges/designer-door-mat/problem
+
+alphabet_rangoli.py
+----------------------
+Problem statement: 
+You are given an integer, . Your task is to print an alphabet rangoli of size . (Rangoli is a form of Indian folk art based on creation of patterns.)
+
+https://www.hackerrank.com/challenges/alphabet-rangoli/problem
